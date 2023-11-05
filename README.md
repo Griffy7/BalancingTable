@@ -1,4 +1,4 @@
-<h1> Mimics behaviour of no armour </h1>
+<h1> Mimics behaviour of no armour + Shotguns buff </h1>
 
 
 
